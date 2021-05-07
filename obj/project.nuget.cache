@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+3ka/JKdT+V3AXA9V/zgGoWQyH2FJP0aK+HmKkCLbDqzzp1zFHUhwrGgJuX15aJtJboH7+MR1rBylyH113cWA==",
+  "dgSpecHash": "u0Uwy9xM70EL5sqgcfULkKemDY2PJuWyX9vsWAN5GZKkUQBq3BLL+WmV0hhiGR3pEMaG11UE4imPWft8fK9oeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\MatchGame.csproj",
+  "projectFilePath": "D:\\Github\\MatchGame\\MatchGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

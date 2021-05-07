@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\MatchGame.csproj": {}
+    "D:\\Github\\MatchGame\\MatchGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\MatchGame.csproj": {
+    "D:\\Github\\MatchGame\\MatchGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\MatchGame.csproj",
+        "projectUniqueName": "D:\\Github\\MatchGame\\MatchGame.csproj",
         "projectName": "MatchGame",
-        "projectPath": "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\MatchGame.csproj",
+        "projectPath": "D:\\Github\\MatchGame\\MatchGame.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\OneDrive - Joules\\00 C#\\Projects\\MatchGame\\obj\\",
+        "outputPath": "D:\\Github\\MatchGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
